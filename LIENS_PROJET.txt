@@ -1,0 +1,13 @@
+PROJET GETAROUND - LIENS IMPORTANTS
+
+1. REPOSITORY GITHUB (code complet) :
+https://github.com/Boumrarmohamed/-Projet_Getaround-analysis-project
+
+2. API DEPLOYEE EN PRODUCTION :
+https://boumrar-getaround-api.hf.space
+
+3. DOCUMENTATION API :
+https://boumrar-getaround-api.hf.space/docs
+
+4. DASHBOARD STREAMLIT (local) :
+cd streamlit_dashboard && streamlit run dashboard.py
